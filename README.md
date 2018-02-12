@@ -1,6 +1,6 @@
 ## 这个是一个Motan+SpringBoot+Zookeeper的基础demo
 
-#### motan-parent 父项目
+#### motan 父项目
 #### motan-core 为基础包模块
 #### motan-server 为服务器端模块
 #### motan-client 为客户端模块
